@@ -1,24 +1,13 @@
-# README
+Aadam Ali's shoppify test using Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In order to test my API I used mysql2 and xamp to connect to the sal server
+and also to connect to the rails server. 
 
-Things you may want to cover:
+Faker was used to generate random information for testing.
 
-* Ruby version
+Some of my routes may not be fully functional as I ran out of time when doing the bounus however
+they show my clear understanding of how rails works as well as an API used to shop.
 
-* System dependencies
+All orginal code in models, contollers and migrations.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Used postman chrome to test get requests and posts.
